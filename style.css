@@ -196,6 +196,7 @@ h3 {
 footer {
   margin-bottom: 48px;
   font-size: 14px;
+  text-align: center;
 }
 
 @media screen and (max-width: 600px) {
@@ -210,20 +211,11 @@ footer {
     column-gap: 80px;
     margin-top: 0px;
     margin-bottom: 50px;
-
-    /* white-space: wrap; */
   }
 
   .header-text {
     margin-bottom: 50px;
     line-height: 3;
-    font-size: 20px;
-  }
-  .features-text {
-    font-size: 20px;
-    line-height: 1.7;
-  }
-  span {
     font-size: 20px;
   }
   .features-icon {
