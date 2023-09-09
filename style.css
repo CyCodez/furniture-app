@@ -222,8 +222,8 @@ footer {
     stroke: #087f5b;
     width: 32px;
     height: 32px;
-    margin-bottom: 24px;
-    margin-top: 20px;
+    margin-bottom: 8px;
+    margin-top: 25px;
   }
   .features-title {
     margin-bottom: 16px;
@@ -244,7 +244,6 @@ footer {
     letter-spacing: 1px;
   }
   h2 {
-    margin-bottom: 3px;
     font-size: 25px;
     letter-spacing: -0.5px;
   }
@@ -281,5 +280,11 @@ footer {
     margin-bottom: 48px;
     font-size: 16px;
     text-align: center;
+  }
+  figure {
+    margin-bottom: 30px;
+  }
+  figure:last-child {
+    margin-bottom: 0;
   }
 }
